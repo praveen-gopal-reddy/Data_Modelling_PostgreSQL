@@ -1,0 +1,502 @@
+KillerID,AgeFirstKill,AgeLastKill,YearBorn,Motive,Sex,Race,Sentence,InsanityPlea
+1000,31,33,1947,Enjoyment or power,Male,White,Died before trial,Didn't plead
+1001,48,50,1925,"Mental illness (including paranoia, visionary or Munchausen's syndrome)",Male,White,Life,Unsuccessful
+1002,17,52,1940,Revenge or vigilante justice,Male,White,Died before trial,Didn't plead
+1003,29,30,1961,Robbery or financial gain,Male,White,Death penalty,Didn't plead
+1004,36,46,1937,Enjoyment or power,Male,White,Life,Didn't plead
+1005,28,37,1943,Anger (including mission-oriented killers),Male,White,Life,Unsuccessful
+1006,20,28,1888,Revenge or vigilante justice,Male,White,Life,Didn't plead
+1007,36,47,1960,Anger (including mission-oriented killers),Male,White,NA,Didn't plead
+1008,36,41,1955,Angel of Death,Male,White,Unknown,Didn't plead
+1009,16,43,1944,Anger (including mission-oriented killers),Male,White,Death penalty,Didn't plead
+1010,25,39,1947,Enjoyment or power,Male,White,Not prosecuted,Didn't plead
+1011,20,50,1903,Robbery or financial gain,Female,White,Life,Didn't plead
+1012,19,24,1963,Enjoyment or power,Male,White,Life,Didn't plead
+1013,31,31,1951,Enjoyment or power,Male,White,Life,Didn't plead
+1014,19,19,1963,Enjoyment or power,Female,White,Death penalty,Didn't plead
+1015,28,35,1950,Enjoyment or power,Male,White,Death penalty,Didn't plead
+1016,24,24,1953,Enjoyment or power,Male,White,Life,Didn't plead
+1017,15,40,1937,Revenge or vigilante justice,Male,Black,Death penalty,Didn't plead
+1018,43,45,1957,Enjoyment or power,Male,Black,Death penalty,Didn't plead
+1019,30,30,1957,Robbery or financial gain,Male,White,Death penalty,Didn't plead
+1020,36,36,1956,Robbery or financial gain,Male,Black,Death penalty,Unsuccessful
+1021,18,33,1947,Anger (including mission-oriented killers),Female,Black,Death penalty,Didn't plead
+1022,27,32,1972,Enjoyment or power,Male,White,Death penalty,Didn't plead
+1023,27,33,1945,Enjoyment or power,Male,Black,Death penalty,Didn't plead
+1024,29,29,1945,Enjoyment or power,Male,White,Died before trial,Didn't plead
+1025,29,35,1968,Enjoyment or power,Male,Black,Death penalty,Didn't plead
+1026,25,36,1962,Enjoyment or power,Male,White,Death penalty,Unsuccessful
+1027,19,19,1983,Enjoyment or power,Male,Black,Life,Unsuccessful
+1028,20,37,1950,Enjoyment or power,Male,Black,NA,Didn't plead
+1029,33,47,1904,Enjoyment or power,Female,White,Death penalty,Unsuccessful
+1030,43,58,1949,Enjoyment or power,Male,White,Life,Didn't plead
+1031,28,28,1897,Anger (including mission-oriented killers),Male,White,Acquitted,Didn't plead
+1032,59,59,1932,Revenge or vigilante justice,Male,White,Death penalty,Didn't plead
+1033,44,44,1957,Enjoyment or power,Male,Black,Death penalty,Didn't plead
+1034,35,47,1941,Enjoyment or power,Male,White,Life,Didn't plead
+1035,31,31,1951,Enjoyment or power,Male,White,Death penalty,Didn't plead
+1036,28,48,1944,Enjoyment or power,Male,White,Death penalty,Didn't plead
+1037,29,29,1958,Robbery or financial gain,Female,White,Life,Didn't plead
+1038,30,31,1945,Enjoyment or power,Male,White,Death penalty,Didn't plead
+1039,25,25,1969,Escape or avoid arrest,Male,White,Died before trial,Didn't plead
+1040,44,45,1919,Enjoyment or power,Male,Black,NA,Didn't plead
+1041,26,26,1982,"Gang, cult or organised crime",Male,Black,Life,Didn't plead
+1042,24,26,1932,Robbery or financial gain,Male,Black,Death penalty,Didn't plead
+1043,37,40,1917,Robbery or financial gain,Female,Black,Life,Didn't plead
+1044,19,19,1976,Robbery or financial gain,Male,Black,Life,Didn't plead
+1045,21,21,1916,Unknown,Male,Black,NA,NA
+1046,26,33,1925,Unknown,Male,Black,Life,Didn't plead
+1047,32,32,1971,Robbery or financial gain,Male,Black,Death penalty,Didn't plead
+1048,24,47,1962,Anger (including mission-oriented killers),Female,White,Life,Didn't plead
+1049,37,37,1955,Robbery or financial gain,Male,White,Life,Didn't plead
+1050,38,38,1950,Unknown,Male,White,NA,NA
+1051,46,47,1941,Robbery or financial gain,Male,White,Life,Didn't plead
+1052,29,44,1848,Enjoyment or power,Male,White,Death penalty,Didn't plead
+1053,41,42,1903,Robbery or financial gain,Male,White,Death penalty,Didn't plead
+1054,29,29,1956,Enjoyment or power,Male,White,NA,Didn't plead
+1055,34,35,1945,Robbery or financial gain,Male,White,Death penalty,Didn't plead
+1056,43,44,1966,Unknown,Male,Black,NA,Didn't plead
+1057,34,34,1946,Robbery or financial gain,Male,White,Death penalty,Didn't plead
+1058,20,30,1881,Robbery or financial gain,Female,White,Acquitted,Didn't plead
+1059,29,29,1956,Robbery or financial gain,Male,Native American,Death penalty,Didn't plead
+1060,26,30,1955,Enjoyment or power,Male,White,Life,Didn't plead
+1061,30,30,1947,Enjoyment or power,Male,Hispanic,Death penalty,Didn't plead
+1062,19,23,1947,Enjoyment or power,Male,White,Life,Didn't plead
+1063,65,65,1929,Anger (including mission-oriented killers),Male,White,Death penalty,Didn't plead
+1064,36,61,1940,Enjoyment or power,Male,White,Death penalty,Didn't plead
+1065,35,35,1964,Enjoyment or power,Male,White,Life,Didn't plead
+1066,26,28,1975,Enjoyment or power,Male,White,Life,Didn't plead
+1067,31,48,1945,Enjoyment or power,Male,White,Death penalty,Didn't plead
+1068,36,38,1966,Enjoyment or power,Female,White,Life,Didn't plead
+1069,24,46,1950,Enjoyment or power,Male,Black,Death penalty,Didn't plead
+1070,22,23,1986,Robbery or financial gain,Male,Black,NA,Didn't plead
+1071,31,40,1945,Enjoyment or power,Male,White,Life,Didn't plead
+1072,30,38,1957,Enjoyment or power,Male,White,Life,Didn't plead
+1073,22,22,1956,Robbery or financial gain,Male,White,Life,Didn't plead
+1074,31,33,1962,Enjoyment or power,Male,White,Life,Didn't plead
+1075,35,38,1968,Enjoyment or power,Male,Asian,Death penalty,Didn't plead
+1076,21,25,1964,Enjoyment or power,Male,White,Death penalty,Didn't plead
+1077,41,43,1937,Anger (including mission-oriented killers),Male,White,Life,Didn't plead
+1078,26,26,1960,Robbery or financial gain,Female,White,Death penalty,Didn't plead
+1079,37,39,1944,Robbery or financial gain,Male,White,Death penalty,Didn't plead
+1080,35,36,1949,Robbery or financial gain,Male,White,Life,Didn't plead
+1081,31,32,1973,Enjoyment or power,Male,White,Life,Didn't plead
+1082,43,46,1915,Convenience (didn't want children/spouse),Female,White,Life,Didn't plead
+1083,47,50,1912,Convenience (didn't want children/spouse),Male,White,Life,Didn't plead
+1084,43,44,1962,Enjoyment or power,Male,Black,Life,Didn't plead
+1085,21,29,1947,Enjoyment or power,Male,White,Death penalty,Didn't plead
+1086,27,32,1946,Anger (including mission-oriented killers),Male,White,Death penalty,Didn't plead
+1087,24,24,1949,Enjoyment or power,Male,White,Death penalty,Didn't plead
+1088,63,68,1913,Robbery or financial gain,Male,White,Death penalty,Didn't plead
+1089,33,38,1882,Enjoyment or power,Male,White,Death penalty,Didn't plead
+1090,25,25,1969,Robbery or financial gain,Male,White,Death penalty,Didn't plead
+1091,39,40,1956,Enjoyment or power,Male,White,Life,Didn't plead
+1092,34,35,1971,Enjoyment or power,Male,White,Death penalty,Didn't plead
+1093,15,15,1976,Robbery or financial gain,Male,White,Life,Didn't plead
+1094,24,26,1985,Revenge or vigilante justice,Male,White,Life,Didn't plead
+1095,20,20,1971,Robbery or financial gain,Male,White,Death penalty,Didn't plead
+1096,36,36,1955,Enjoyment or power,Male,White,Death penalty,Didn't plead
+1097,43,43,1961,Enjoyment or power,Male,White,Life,Didn't plead
+1098,26,27,1976,Enjoyment or power,Male,Black,Death penalty,Didn't plead
+1099,42,42,1953,Robbery or financial gain,Male,White,Death penalty,Didn't plead
+1100,22,23,1941,Enjoyment or power,Male,White,Death penalty,Didn't plead
+1101,56,58,1931,Unknown,Male,White,Died before trial,Didn't plead
+1102,23,37,1962,Enjoyment or power,Male,White,Death penalty,Didn't plead
+1103,36,36,1957,Robbery or financial gain,Male,White,Death penalty,Didn't plead
+1104,27,27,1948,Enjoyment or power,Male,White,Death penalty,Didn't plead
+1105,30,30,1943,Enjoyment or power,Male,White,Death penalty,Didn't plead
+1106,53,53,1936,Enjoyment or power,Male,Black,Life,Didn't plead
+1107,40,40,1958,Escape or avoid arrest,Male,White,Died before trial,Didn't plead
+1108,33,64,1933,Escape or avoid arrest,Male,White,Died before trial,Didn't plead
+1109,42,42,1956,Unknown,Male,White,Death penalty,Didn't plead
+1110,41,41,1957,Escape or avoid arrest,Male,White,Death penalty,Didn't plead
+1111,23,27,1955,Revenge or vigilante justice,Male,White,Death penalty,Unsuccessful
+1112,17,17,1942,Robbery or financial gain,Male,White,Life,Didn't plead
+1113,34,40,1941,Robbery or financial gain,Male,White,Death penalty,Didn't plead
+1114,22,27,1951,Enjoyment or power,Male,White,Life,Didn't plead
+1115,41,41,1939,Robbery or financial gain,Male,Black,Death penalty,Didn't plead
+1116,49,55,1954,Revenge or vigilante justice,Male,White,Death penalty,Didn't plead
+1117,35,36,1944,Robbery or financial gain,Male,Black,Death penalty,Didn't plead
+1118,24,24,1984,Enjoyment or power,Male,Native American,Life,Didn't plead
+1119,20,22,1987,Revenge or vigilante justice,Male,White,NA,Didn't plead
+1120,25,53,1942,Enjoyment or power,Male,White,Death penalty,Didn't plead
+1121,27,27,1968,Robbery or financial gain,Male,White,Death penalty,Didn't plead
+1122,30,30,1965,Robbery or financial gain,Male,White,Death penalty,Didn't plead
+1123,24,31,1958,Anger (including mission-oriented killers),Male,White,Death penalty,Didn't plead
+1124,24,34,1961,Unknown,Male,Hispanic,NA,Didn't plead
+1125,48,59,1929,Robbery or financial gain,Male,White,Death penalty,Didn't plead
+1126,36,36,1957,Robbery or financial gain,Male,White,Life,Unsuccessful
+1127,27,27,1978,Robbery or financial gain,Male,Hispanic,Life,NA
+1128,28,29,1963,Anger (including mission-oriented killers),Male,White,Death penalty,Didn't plead
+1129,25,38,1950,Anger (including mission-oriented killers),Male,Black,Life,Didn't plead
+1130,33,36,1958,Convenience (didn't want children/spouse),Male,White,Life,Didn't plead
+1131,22,26,1952,Enjoyment or power,Male,White,Life,Didn't plead
+1132,20,23,1955,Enjoyment or power,Male,White,Life,NA
+1133,61,62,1938,Enjoyment or power,Male,Black,Life,Didn't plead
+1134,53,53,1957,Robbery or financial gain,Male,Black,NA,Didn't plead
+1135,38,39,1958,Enjoyment or power,Male,White,Death penalty,Didn't plead
+1136,32,53,1932,"Mental illness (including paranoia, visionary or Munchausen's syndrome)",Male,White,Life,Unsuccessful
+1137,33,41,1948,Anger (including mission-oriented killers),Male,White,Death penalty,Didn't plead
+1138,27,27,1901,Enjoyment or power,Male,White,Life,Didn't plead
+1139,20,24,1964,Enjoyment or power,Male,White,Guilty,Didn't plead
+1140,31,32,1954,Enjoyment or power,Male,Black,Death penalty,Didn't plead
+1141,28,28,1963,Robbery or financial gain,Female,Black,Life,Didn't plead
+1142,35,35,1937,Robbery or financial gain,Female,White,Death penalty,Didn't plead
+1143,41,41,1943,Robbery or financial gain,Male,Hispanic,Death penalty,Unsuccessful
+1144,35,35,1962,Robbery or financial gain,Male,White,Death penalty,Didn't plead
+1145,20,39,1953,Anger (including mission-oriented killers),Male,Native American,Death penalty,Didn't plead
+1146,24,24,1954,Enjoyment or power,Male,Native American,Death penalty,Didn't plead
+1147,37,40,1956,Revenge or vigilante justice,Male,White,Death penalty,Didn't plead
+1148,26,29,1963,Anger (including mission-oriented killers),Male,Asian,Life,Didn't plead
+1149,30,35,1945,Revenge or vigilante justice,Male,White,Death penalty,Didn't plead
+1150,38,40,1958,Enjoyment or power,Male,White,Death penalty,Unsuccessful
+1151,35,44,1964,Robbery or financial gain,Male,Black,NA,NA
+1152,27,27,1951,Robbery or financial gain,Male,Black,Death penalty,Didn't plead
+1153,31,31,1948,Unknown,Male,Hispanic,Death penalty,Didn't plead
+1154,19,24,1980,"Gang, cult or organised crime",Male,Hispanic,Life,Didn't plead
+1155,33,33,1978,Robbery or financial gain,Male,White,NA,Didn't plead
+1156,27,27,1984,Robbery or financial gain,Female,White,NA,Didn't plead
+1157,29,49,1950,Enjoyment or power,Male,Black,Died before trial,Didn't plead
+1158,36,36,1976,Revenge or vigilante justice,Male,Black,Died before trial,Didn't plead
+1159,48,50,1924,Enjoyment or power,Male,White,Life,Didn't plead
+1160,23,23,1958,Robbery or financial gain,Male,Black,Death penalty,Didn't plead
+1161,28,36,1942,Enjoyment or power,Male,White,Death penalty,Didn't plead
+1162,34,34,1942,Robbery or financial gain,Male,White,Life,Didn't plead
+1163,40,59,1907,Enjoyment or power,Male,White,Death penalty,Didn't plead
+1164,23,23,1946,"Gang, cult or organised crime",Female,White,Life,Didn't plead
+1165,23,27,1964,"Gang, cult or organised crime",Male,Black,Death penalty,Didn't plead
+1166,29,31,1948,Enjoyment or power,Male,White,Life,Unsuccessful
+1167,40,40,1938,Enjoyment or power,Male,White,Death penalty,Didn't plead
+1168,35,36,1944,Enjoyment or power,Male,White,Death penalty,Didn't plead
+1169,32,54,1861,Robbery or financial gain,Male,White,Life,Didn't plead
+1170,29,33,1944,Enjoyment or power,Male,White,Death penalty,Didn't plead
+1171,45,47,1932,Enjoyment or power,Male,White,Life,Didn't plead
+1172,24,25,1955,Enjoyment or power,Male,White,Died before trial,Didn't plead
+1173,24,36,1945,Enjoyment or power,Male,Hispanic,Life,Didn't plead
+1174,50,51,1929,Enjoyment or power,Male,White,Death penalty,Didn't plead
+1175,30,30,1954,Robbery or financial gain,Male,White,Death penalty,Didn't plead
+1176,29,30,1948,Enjoyment or power,Male,White,Death penalty,Unsuccessful
+1177,24,26,1962,Anger (including mission-oriented killers),Male,Black,Life,Didn't plead
+1178,34,34,1946,Enjoyment or power,Male,White,Death penalty,Didn't plead
+1179,44,59,1887,Robbery or financial gain,Male,White,Life,Didn't plead
+1180,33,41,1937,Anger (including mission-oriented killers),Male,White,Death penalty,Didn't plead
+1181,23,25,1944,Enjoyment or power,Male,White,Life,Didn't plead
+1182,26,28,1960,"Gang, cult or organised crime",Male,Hispanic,Died before trial,Didn't plead
+1183,23,23,1927,Robbery or financial gain,Male,White,Death penalty,Unsuccessful
+1184,40,40,1944,Enjoyment or power,Male,Hispanic,Died before trial,Didn't plead
+1185,30,32,1955,Enjoyment or power,Male,Black,Death penalty,Didn't plead
+1186,29,32,1960,Robbery or financial gain,Male,White,Death penalty,Didn't plead
+1187,23,36,1946,Enjoyment or power,Male,White,Life,Didn't plead
+1188,41,41,1940,Angel of Death,Male,Hispanic,Death penalty,Didn't plead
+1189,44,43,1961,Enjoyment or power,Male,White,Life,Didn't plead
+1190,24,27,1973,"Gang, cult or organised crime",Male,Asian,Death penalty,Didn't plead
+1191,36,52,1916,Enjoyment or power,Male,White,Death penalty,Didn't plead
+1192,34,56,1950,Enjoyment or power,Male,Black,NA,Didn't plead
+1193,23,25,1955,Enjoyment or power,Female,White,Life,Didn't plead
+1194,33,35,1945,Enjoyment or power,Male,White,Death penalty,Unsuccessful
+1195,29,29,1904,Escape or avoid arrest,Male,White,Died before trial,Didn't plead
+1196,25,26,1949,Anger (including mission-oriented killers),Male,Black,Life,Didn't plead
+1197,22,33,1942,Enjoyment or power,Male,Black,Life,Didn't plead
+1198,33,34,1923,Anger (including mission-oriented killers),Male,White,Death penalty,Unsuccessful
+1199,38,61,1933,Enjoyment or power,Male,White,Death penalty,Didn't plead
+1200,32,33,1893,Enjoyment or power,Male,White,Death penalty,Unsuccessful
+1201,26,27,1957,Enjoyment or power,Male,Asian,Death penalty,Didn't plead
+1202,18,20,1917,Enjoyment or power,Male,Black,Death penalty,Didn't plead
+1203,34,34,1945,Enjoyment or power,Male,White,Life,Didn't plead
+1204,25,25,1986,Anger (including mission-oriented killers),Male,Hispanic,Died before trial,Didn't plead
+1205,20,34,1964,Enjoyment or power,Male,White,Death penalty,Didn't plead
+1206,41,54,1928,Enjoyment or power,Male,White,Life,Unsuccessful
+1207,25,33,1960,Enjoyment or power,Male,Black,Not guilty by reason of insanity,Didn't plead
+1208,30,30,1961,Robbery or financial gain,Male,Black,Life,Didn't plead
+1209,22,22,1969,Robbery or financial gain,Female,Black,Life,Didn't plead
+1210,32,39,1954,Enjoyment or power,Male,Black,Life,Didn't plead
+1211,23,43,1946,Enjoyment or power,Male,White,Life,Didn't plead
+1212,48,48,1943,Enjoyment or power,Male,White,Death penalty,Unsuccessful
+1213,42,49,1932,Enjoyment or power,Male,Black,Life,Didn't plead
+1214,41,44,1940,Enjoyment or power,Male,Black,Death penalty,Didn't plead
+1215,26,32,1963,"Gang, cult or organised crime",Male,Black,Death penalty,NA
+1216,24,24,1954,Enjoyment or power,Male,White,Death penalty,Unsuccessful
+1217,26,35,1938,Enjoyment or power,Male,White,Life,Didn't plead
+1218,24,25,1947,Enjoyment or power,Male,White,Life,Unsuccessful
+1219,36,47,1938,Enjoyment or power,Male,White,Life,Didn't plead
+1220,22,22,1904,Unknown,Male,White,Death penalty,Unsuccessful
+1221,29,41,1942,Enjoyment or power,Male,White,Death penalty,Didn't plead
+1222,41,43,1942,Enjoyment or power,Male,White,Died before trial,Didn't plead
+1223,49,51,1923,Enjoyment or power,Male,White,Life,Didn't plead
+1224,24,24,1967,Robbery or financial gain,Male,White,Death penalty,Didn't plead
+1225,23,23,1968,Robbery or financial gain,Male,Black,Death penalty,Didn't plead
+1226,24,29,1955,Enjoyment or power,Male,White,Death penalty,Didn't plead
+1227,27,33,1954,Robbery or financial gain,Male,Black,Death penalty,Didn't plead
+1228,26,26,1967,Robbery or financial gain,Male,Black,Life,Didn't plead
+1229,35,39,1933,Enjoyment or power,Male,White,Death penalty,Didn't plead
+1230,27,27,1952,Robbery or financial gain,Male,White,Death penalty,Didn't plead
+1231,35,35,1943,Enjoyment or power,Male,Black,Life,Didn't plead
+1232,24,28,1971,"Gang, cult or organised crime",Male,Hispanic,Death penalty,Didn't plead
+1233,31,32,1953,Enjoyment or power,Male,Black,Death penalty,Didn't plead
+1234,29,30,1944,Anger (including mission-oriented killers),Male,Black,Life,Didn't plead
+1235,26,27,1946,"Mental illness (including paranoia, visionary or Munchausen's syndrome)",Male,White,Life,Unsuccessful
+1236,25,26,1953,Enjoyment or power,Male,Black,Death penalty,Didn't plead
+1237,28,66,1878,Robbery or financial gain,Female,White,Death penalty,Didn't plead
+1238,28,28,1958,Enjoyment or power,Male,Black,Died before trial,Didn't plead
+1239,23,23,1966,Enjoyment or power,Male,Black,Death penalty,Didn't plead
+1240,33,40,1928,Robbery or financial gain,Female,Hispanic,Life,Didn't plead
+1241,25,26,1959,Enjoyment or power,Male,Hispanic,Death penalty,Didn't plead
+1242,41,42,1957,Robbery or financial gain,Male,Hispanic,Death penalty,Unsuccessful
+1243,32,34,1961,Anger (including mission-oriented killers),Male,White,Death penalty,Didn't plead
+1244,29,29,1967,Angel of Death,Male,Hispanic,Life,Didn't plead
+1245,15,25,1959,"Gang, cult or organised crime",Male,Black,Guilty,NA
+1246,41,41,1942,Enjoyment or power,Male,White,Life,Didn't plead
+1247,40,43,1934,Enjoyment or power,Male,Black,Life,Didn't plead
+1248,27,28,1945,Anger (including mission-oriented killers),Male,Black,Life,Didn't plead
+1249,44,45,1942,Enjoyment or power,Male,Black,Death penalty,Didn't plead
+1250,22,22,1967,Enjoyment or power,Male,Black,Death penalty,Didn't plead
+1251,37,42,1949,Enjoyment or power,Male,White,Death penalty,Didn't plead
+1252,34,36,1947,Robbery or financial gain,Male,Black,Life,Didn't plead
+1253,36,53,1934,Enjoyment or power,Male,Black,Life,Didn't plead
+1254,24,35,1962,Enjoyment or power,Male,Black,Death penalty,Didn't plead
+1255,23,40,1950,Enjoyment or power,Male,White,Life,Didn't plead
+1256,24,24,1961,Enjoyment or power,Male,Hispanic,Death penalty,Unsuccessful
+1257,24,38,1948,Robbery or financial gain,Male,White,Death penalty,Didn't plead
+1258,30,32,1948,Robbery or financial gain,Male,White,Life,Didn't plead
+1259,33,37,1971,Anger (including mission-oriented killers),Male,Black,Life,Didn't plead
+1260,40,43,1934,Enjoyment or power,Male,Black,Life,Didn't plead
+1261,29,29,1968,"Gang, cult or organised crime",Male,Hispanic,Death penalty,Didn't plead
+1262,36,37,1964,Robbery or financial gain,Male,White,Death penalty,Didn't plead
+1263,38,39,1962,Robbery or financial gain,Male,White,Death penalty,Didn't plead
+1264,29,37,1949,Anger (including mission-oriented killers),Male,White,Death penalty,Didn't plead
+1265,37,37,1953,Anger (including mission-oriented killers),Male,Hispanic,Death penalty,Didn't plead
+1266,37,51,1937,Enjoyment or power,Male,White,Life,Didn't plead
+1267,27,38,1961,Enjoyment or power,Male,White,Life,Didn't plead
+1268,26,33,1890,Robbery or financial gain,Male,Black,Death penalty,Didn't plead
+1269,24,24,1945,"Gang, cult or organised crime",Male,White,Life,Didn't plead
+1270,29,30,1925,Robbery or financial gain,Male,White,Death penalty,Unsuccessful
+1271,35,35,1947,Enjoyment or power,Male,Black,Life,Didn't plead
+1272,52,53,1934,Enjoyment or power,Male,White,Death penalty,Didn't plead
+1273,43,43,1942,Enjoyment or power,Male,White,Death penalty,Didn't plead
+1274,34,41,1943,Enjoyment or power,Male,White,Death penalty,Didn't plead
+1275,23,23,1951,Robbery or financial gain,Male,White,Life,Didn't plead
+1276,39,39,1940,Enjoyment or power,Female,White,Life,Didn't plead
+1277,41,43,1939,Anger (including mission-oriented killers),Female,White,Life,Didn't plead
+1278,36,45,1951,Enjoyment or power,Male,Black,Death penalty,Didn't plead
+1279,24,31,1956,Enjoyment or power,Male,White,Death penalty,Unsuccessful
+1280,26,26,1959,Robbery or financial gain,Male,Black,Life,Didn't plead
+1281,41,42,1943,Anger (including mission-oriented killers),Female,White,Life,Didn't plead
+1282,39,53,1958,Enjoyment or power,Male,White,Death penalty,Didn't plead
+1283,22,26,1958,Anger (including mission-oriented killers),Male,White,Death penalty,NA
+1284,26,33,1959,Enjoyment or power,Male,White,Death penalty,Didn't plead
+1285,29,33,1960,Enjoyment or power,Male,White,Death penalty,Didn't plead
+1286,37,37,1939,Robbery or financial gain,Male,Hispanic,Life,Didn't plead
+1287,34,35,1923,Enjoyment or power,Male,White,Death penalty,Didn't plead
+1288,32,34,1957,Anger (including mission-oriented killers),Male,Hispanic,Life,Didn't plead
+1289,19,30,1974,Enjoyment or power,Male,White,NA,Didn't plead
+1290,20,20,1950,"Gang, cult or organised crime",Male,White,NA,Didn't plead
+1291,39,40,1954,Robbery or financial gain,Female,White,Life,Didn't plead
+1292,25,28,1970,Enjoyment or power,Male,Hispanic,Death penalty,Didn't plead
+1293,25,27,1957,Robbery or financial gain,Male,Native American,Death penalty,NA
+1294,29,29,1959,Enjoyment or power,Male,Black,Life,Didn't plead
+1295,31,32,1965,Robbery or financial gain,Male,Black,Life,Didn't plead
+1296,28,28,1945,Revenge or vigilante justice,Male,White,Not guilty by reason of insanity,Successful
+1297,23,26,1952,Robbery or financial gain,Male,White,Death penalty,Didn't plead
+1298,36,42,1956,Anger (including mission-oriented killers),Male,White,Death penalty,Didn't plead
+1299,23,23,1967,Anger (including mission-oriented killers),Male,White,Life,Didn't plead
+1300,19,19,1962,Enjoyment or power,Male,Hispanic,Death penalty,Didn't plead
+1301,26,44,1947,Robbery or financial gain,Male,Black,Life,Didn't plead
+1302,27,27,1957,Robbery or financial gain,Male,White,Death penalty,Didn't plead
+1303,22,22,1948,"Gang, cult or organised crime",Male,White,Life,Didn't plead
+1304,22,22,1947,"Gang, cult or organised crime",Male,White,Life,Didn't plead
+1305,27,29,1956,Enjoyment or power,Male,White,Death penalty,Didn't plead
+1306,19,19,1957,Robbery or financial gain,Male,Black,Death penalty,Didn't plead
+1307,27,27,1957,Enjoyment or power,Male,Black,Death penalty,Unsuccessful
+1308,46,55,1939,Anger (including mission-oriented killers),Male,White,Life,Didn't plead
+1309,29,29,1955,Enjoyment or power,Male,Black,Death penalty,Unsuccessful
+1310,24,42,1933,Enjoyment or power,Male,White,Death penalty,Unsuccessful
+1311,59,66,1931,Robbery or financial gain,Female,White,Life,Didn't plead
+1312,31,33,1952,Enjoyment or power,Male,Native American,Death penalty,Didn't plead
+1313,33,34,1965,Enjoyment or power,Male,White,Death penalty,Didn't plead
+1314,33,37,1944,Robbery or financial gain,Male,White,Life,Didn't plead
+1315,40,43,1892,Robbery or financial gain,Male,White,Death penalty,Didn't plead
+1316,15,27,1958,Enjoyment or power,Male,White,Life,Didn't plead
+1317,37,37,1953,Robbery or financial gain,Male,White,Life,Didn't plead
+1318,27,41,1937,Robbery or financial gain,Male,White,Death penalty,Didn't plead
+1319,28,28,1950,Enjoyment or power,Male,White,Death penalty,Didn't plead
+1320,31,33,1956,Enjoyment or power,Male,White,Death penalty,Didn't plead
+1321,36,54,1939,Enjoyment or power,Male,White,Life,Didn't plead
+1322,19,21,1942,Anger (including mission-oriented killers),Male,White,Death penalty,Unsuccessful
+1323,43,44,1956,Enjoyment or power,Male,Black,Death penalty,Didn't plead
+1324,22,22,1969,Robbery or financial gain,Male,Hispanic,Life,Didn't plead
+1325,23,23,1962,Anger (including mission-oriented killers),Female,White,Life,Didn't plead
+1326,21,26,1962,Enjoyment or power,Male,Hispanic,Life,Didn't plead
+1327,39,44,1933,Enjoyment or power,Male,White,Life,Didn't plead
+1328,42,43,1944,Enjoyment or power,Male,White,Death penalty,Didn't plead
+1329,35,35,1961,Robbery or financial gain,Male,Hispanic,Death penalty,Didn't plead
+1330,24,24,1968,Robbery or financial gain,Male,Hispanic,Death penalty,Didn't plead
+1331,26,26,1959,Anger (including mission-oriented killers),Male,White,Death penalty,Didn't plead
+1332,28,28,1937,Robbery or financial gain,Male,Native American,Death penalty,Didn't plead
+1333,21,21,1949,"Gang, cult or organised crime",Male,White,NA,Unsuccessful
+1334,48,49,1936,Anger (including mission-oriented killers),Male,White,Death penalty,Didn't plead
+1335,46,46,1960,Robbery or financial gain,Male,White,Death penalty,Didn't plead
+1336,22,41,1949,Enjoyment or power,Male,White,Unknown,Didn't plead
+1337,31,32,1948,Enjoyment or power,Male,White,Life,Didn't plead
+1338,40,40,1941,Enjoyment or power,Male,White,Death penalty,Unsuccessful
+1339,41,54,1926,Enjoyment or power,Male,White,Life,Didn't plead
+1340,29,39,1935,Enjoyment or power,Male,White,Life,Didn't plead
+1341,26,27,1958,Robbery or financial gain,Male,Black,Life,Didn't plead
+1342,23,23,1986,Enjoyment or power,Male,Black,Life,Didn't plead
+1343,32,32,1959,Robbery or financial gain,Female,Black,Death penalty,Didn't plead
+1344,23,23,1981,Robbery or financial gain,Male,Black,Death penalty,Didn't plead
+1345,29,30,1979,Enjoyment or power,Male,White,Life,Didn't plead
+1346,70,76,1929,Robbery or financial gain,Female,White,Life,Didn't plead
+1347,40,41,1943,"Gang, cult or organised crime",Male,Black,Life,Didn't plead
+1348,18,19,1919,Enjoyment or power,Male,Black,Life,Didn't plead
+1349,27,34,1940,Anger (including mission-oriented killers),Male,Black,Not prosecuted,Didn't plead
+1350,41,41,1963,Robbery or financial gain,Male,Black,Life,Didn't plead
+1351,22,23,1976,Enjoyment or power,Male,Black,Life,Didn't plead
+1352,37,37,1974,Unknown,Male,White,Died before trial,NA
+1353,31,31,1929,Enjoyment or power,Male,White,Death penalty,Didn't plead
+1354,22,25,1976,"Gang, cult or organised crime",Male,Black,Death penalty,Didn't plead
+1355,25,31,1954,Enjoyment or power,Male,White,Life,Didn't plead
+1356,29,31,1960,Unknown,Male,Black,Life,Didn't plead
+1357,26,27,1975,Unknown,Male,Hispanic,Life,Didn't plead
+1358,29,29,1972,"Gang, cult or organised crime",Male,Black,Death penalty,Didn't plead
+1359,30,30,1968,Robbery or financial gain,Male,White,Life,Didn't plead
+1360,29,29,1969,Robbery or financial gain,Female,White,Life,Didn't plead
+1361,27,28,1976,Robbery or financial gain,Male,White,Death penalty,Didn't plead
+1362,30,30,1953,Enjoyment or power,Male,White,NA,NA
+1363,49,50,1953,Robbery or financial gain,Male,White,Death penalty,Didn't plead
+1364,23,23,1958,Robbery or financial gain,Male,Black,NA,Didn't plead
+1365,39,47,1957,Anger (including mission-oriented killers),Male,Asian,NA,NA
+1366,24,26,1979,Anger (including mission-oriented killers),Male,Hispanic,Death penalty,Didn't plead
+1367,29,30,1947,Enjoyment or power,Male,White,NA,Didn't plead
+1368,21,21,1958,Enjoyment or power,Male,White,Life,Didn't plead
+1369,22,25,1980,Anger (including mission-oriented killers),Male,Hispanic,Death penalty,Didn't plead
+1370,43,43,1948,Anger (including mission-oriented killers),Male,White,Death penalty,Didn't plead
+1371,34,46,1952,Enjoyment or power,Male,White,Death penalty,Didn't plead
+1372,27,27,1964,Anger (including mission-oriented killers),Male,Hispanic,Life,Didn't plead
+1373,24,24,1956,Robbery or financial gain,Male,Black,Death penalty,Didn't plead
+1374,24,24,1962,Enjoyment or power,Male,White,Death penalty,Didn't plead
+1375,42,42,1946,Robbery or financial gain,Female,White,Death penalty,Didn't plead
+1376,23,23,1962,Enjoyment or power,Male,Hispanic,Life,Didn't plead
+1377,40,40,1965,Anger (including mission-oriented killers),Male,Hispanic,Death penalty,Didn't plead
+1378,31,31,1974,Anger (including mission-oriented killers),Female,White,Death penalty,Didn't plead
+1379,16,21,1980,Enjoyment or power,Female,White,Death penalty,Didn't plead
+1380,43,48,1953,Enjoyment or power,Male,White,Death penalty,Didn't plead
+1381,34,45,1959,Anger (including mission-oriented killers),Male,White,Life,Didn't plead
+1382,39,39,1959,Enjoyment or power,Male,White,NA,Didn't plead
+1383,41,41,1946,Robbery or financial gain,Male,White,NA,Didn't plead
+1384,25,25,1949,Robbery or financial gain,Female,White,NA,Didn't plead
+1385,42,48,1940,Robbery or financial gain,Male,White,NA,Didn't plead
+1386,29,40,1950,Enjoyment or power,Male,White,Life,Didn't plead
+1387,29,38,1942,Robbery or financial gain,Female,White,Death penalty,Didn't plead
+1388,29,50,1942,Robbery or financial gain,Female,White,Life,Didn't plead
+1389,40,40,1943,Robbery or financial gain,Female,White,Life,Didn't plead
+1390,31,31,1961,Anger (including mission-oriented killers),Male,White,Life,Didn't plead
+1391,21,38,1954,Enjoyment or power,Male,White,Life,Didn't plead
+1392,27,37,1951,Enjoyment or power,Male,Black,Life,Didn't plead
+1393,43,43,1954,Enjoyment or power,Male,White,Death penalty,Didn't plead
+1394,20,22,1970,Revenge or vigilante justice,Male,White,Life,Unsuccessful
+1395,40,41,1962,Enjoyment or power,Male,White,Life,Didn't plead
+1396,20,20,1941,Robbery or financial gain,Male,White,Death penalty,Didn't plead
+1397,28,39,1954,Enjoyment or power,Male,White,Life,Didn't plead
+1398,21,31,1955,Robbery or financial gain,Male,White,Life,Didn't plead
+1399,45,55,1931,Robbery or financial gain,Male,White,NA,Didn't plead
+1400,48,49,1923,Robbery or financial gain,Male,White,Life,Didn't plead
+1401,33,35,1960,Enjoyment or power,Male,Black,Death penalty,Didn't plead
+1402,31,31,1950,Enjoyment or power,Male,White,Death penalty,Didn't plead
+1403,47,62,1931,Robbery or financial gain,Male,White,Life,Didn't plead
+1404,41,42,1931,Robbery or financial gain,Male,White,NA,Didn't plead
+1405,27,27,1959,Robbery or financial gain,Male,White,Life,Didn't plead
+1406,26,39,1954,Enjoyment or power,Male,White,Life,NA
+1407,27,32,1969,Enjoyment or power,Male,White,Life,Didn't plead
+1408,23,23,1944,Enjoyment or power,Male,White,Died before trial,Didn't plead
+1409,20,20,1941,Robbery or financial gain,Male,White,Death penalty,Didn't plead
+1410,22,22,1953,Robbery or financial gain,Male,Black,Life,Didn't plead
+1411,20,20,1955,Robbery or financial gain,Male,Black,Life,Didn't plead
+1412,28,28,1981,Revenge or vigilante justice,Male,Black,NA,NA
+1413,18,23,1970,Enjoyment or power,Male,White,NA,Didn't plead
+1414,21,22,1985,Robbery or financial gain,Male,Black,Life,Didn't plead
+1415,18,19,1985,Anger (including mission-oriented killers),Male,Black,Death penalty,Didn't plead
+1416,41,41,1957,Robbery or financial gain,Male,White,Life,Didn't plead
+1417,30,32,1957,Enjoyment or power,Male,Black,Life,Didn't plead
+1418,23,23,1963,Enjoyment or power,Male,Black,Life,Didn't plead
+1419,24,52,1943,Enjoyment or power,Male,White,Died before trial,Didn't plead
+1420,40,48,1869,Robbery or financial gain,Female,White,Life,Didn't plead
+1421,32,41,1941,Enjoyment or power,Male,White,Life,Didn't plead
+1422,20,35,1963,Anger (including mission-oriented killers),Male,White,Life,Didn't plead
+1423,23,44,1943,Revenge or vigilante justice,Male,White,Death penalty,Didn't plead
+1424,30,34,1942,Enjoyment or power,Male,White,Death penalty,NA
+1425,35,35,1921,Robbery or financial gain,Male,White,Life,Didn't plead
+1426,42,42,1918,Enjoyment or power,Male,White,Death penalty,Didn't plead
+1427,16,25,1942,Enjoyment or power,Male,White,Unknown,Didn't plead
+1428,59,61,1919,Enjoyment or power,Male,White,Life,Didn't plead
+1429,25,33,1922,Anger (including mission-oriented killers),Female,White,NA,Didn't plead
+1430,28,29,1961,Enjoyment or power,Male,Black,Life,Didn't plead
+1431,39,43,1928,Enjoyment or power,Male,White,Not guilty by reason of insanity,Successful
+1432,36,47,1870,Robbery or financial gain,Female,White,Life,Didn't plead
+1433,30,38,1890,Enjoyment or power,Male,White,Death penalty,Didn't plead
+1434,39,39,1945,Enjoyment or power,Male,White,Life,Didn't plead
+1435,40,48,1935,Anger (including mission-oriented killers),Male,White,Life,NA
+1436,24,27,1956,Enjoyment or power,Male,White,Death penalty,Didn't plead
+1437,43,50,1821,Robbery or financial gain,Female,White,Life,Didn't plead
+1438,23,41,1960,Enjoyment or power,Male,White,Life,Didn't plead
+1439,29,36,1921,Robbery or financial gain,Male,White,Death penalty,Didn't plead
+1440,25,29,1965,Enjoyment or power,Male,Black,Life,Didn't plead
+1441,29,30,1968,Enjoyment or power,Male,Black,Life,Didn't plead
+1442,21,21,1981,Enjoyment or power,Male,Black,Death penalty,Didn't plead
+1443,19,23,1988,Robbery or financial gain,Male,Black,NA,Didn't plead
+1444,22,45,1947,Enjoyment or power,Male,White,Life,Didn't plead
+1445,30,32,1955,Enjoyment or power,Male,Hispanic,Life,Didn't plead
+1446,26,26,1961,Enjoyment or power,Male,Black,Life,Didn't plead
+1447,34,34,1914,Enjoyment or power,Male,White,Life,Unsuccessful
+1448,21,22,1969,Enjoyment or power,Male,Asian,Life,Unsuccessful
+1449,41,41,1903,Robbery or financial gain,Male,White,Death penalty,Didn't plead
+1450,25,37,1941,Robbery or financial gain,Male,Black,Death penalty,Didn't plead
+1451,32,32,1961,"Mental illness (including paranoia, visionary or Munchausen's syndrome)",Male,Black,Not guilty by reason of insanity,Successful
+1452,32,35,1962,Enjoyment or power,Male,Black,Life,Didn't plead
+1453,23,23,1948,Enjoyment or power,Male,Black,NA,NA
+1454,33,33,1953,Enjoyment or power,Male,Black,Life,Didn't plead
+1455,17,19,1975,"Gang, cult or organised crime",Male,Black,Life,Didn't plead
+1456,21,29,1968,"Gang, cult or organised crime",Male,Black,NA,NA
+1457,30,37,1959,Unknown,Male,Black,NA,NA
+1458,25,29,1968,Robbery or financial gain,Male,Black,Life,Didn't plead
+1459,28,34,1961,"Gang, cult or organised crime",Male,Black,NA,NA
+1460,28,28,1966,"Gang, cult or organised crime",Male,Black,Died before trial,Didn't plead
+1461,43,51,1959,Anger (including mission-oriented killers),Male,Black,Life,Didn't plead
+1462,31,32,1978,"Gang, cult or organised crime",Male,Black,Life,Didn't plead
+1463,22,27,1969,"Gang, cult or organised crime",Male,Black,NA,NA
+1464,23,32,1961,"Gang, cult or organised crime",Male,Black,Life,Didn't plead
+1465,30,32,1978,"Gang, cult or organised crime",Male,Black,Life,Didn't plead
+1466,24,27,1970,"Gang, cult or organised crime",Male,Black,NA,NA
+1467,20,31,1968,"Gang, cult or organised crime",Male,Black,Life,Didn't plead
+1468,25,36,1963,"Gang, cult or organised crime",Male,Black,Life,Didn't plead
+1469,45,52,1946,Anger (including mission-oriented killers),Male,White,Life,Didn't plead
+1470,34,35,1953,Enjoyment or power,Male,White,Death penalty,Didn't plead
+1471,26,41,1946,Robbery or financial gain,Male,White,Death penalty,Didn't plead
+1472,32,36,1932,Revenge or vigilante justice,Female,Black,Life,Didn't plead
+1473,38,38,1955,Robbery or financial gain,Male,White,Died before trial,Didn't plead
+1474,34,34,1960,Robbery or financial gain,Male,White,Life,Didn't plead
+1475,20,22,1973,"Mental illness (including paranoia, visionary or Munchausen's syndrome)",Female,White,Life,Didn't plead
+1476,31,35,1943,Robbery or financial gain,Male,Black,Death penalty,Didn't plead
+1477,23,24,1966,Robbery or financial gain,Male,White,Death penalty,Didn't plead
+1478,36,36,1929,Robbery or financial gain,Male,White,Life,Didn't plead
+1479,23,24,1965,Enjoyment or power,Male,White,Unknown,Didn't plead
+1480,20,20,1970,Robbery or financial gain,Male,Black,Life,Didn't plead
+1481,36,38,1931,Unknown,Male,White,Life,Didn't plead
+1482,25,26,1962,Robbery or financial gain,Male,White,Life,Didn't plead
+1483,27,28,1958,Anger (including mission-oriented killers),Male,Black,Death penalty,Didn't plead
+1484,25,25,1956,Enjoyment or power,Male,White,Death penalty,Didn't plead
+1485,36,37,1935,Anger (including mission-oriented killers),Male,White,Death penalty,Didn't plead
+1486,25,25,1956,Enjoyment or power,Male,White,Death penalty,Didn't plead
+1487,17,22,1936,Enjoyment or power,Male,White,Life,Didn't plead
+1488,45,56,1936,Anger (including mission-oriented killers),Male,Black,Death penalty,Didn't plead
+1489,23,24,1952,Enjoyment or power,Male,White,Death penalty,Didn't plead
+1490,32,32,1957,Escape or avoid arrest,Male,White,Life,Didn't plead
+1491,24,25,1967,Robbery or financial gain,Male,White,Death penalty,Didn't plead
+1492,27,27,1959,Robbery or financial gain,Male,White,Death penalty,Didn't plead
+1493,25,25,1962,Robbery or financial gain,Male,White,Death penalty,Didn't plead
+1494,41,41,1923,Robbery or financial gain,Male,White,Guilty,Didn't plead
+1495,19,28,1963,Robbery or financial gain,Male,Black,Death penalty,Didn't plead
+1496,29,41,1959,Robbery or financial gain,Male,White,Death penalty,Didn't plead
+1497,26,26,1961,Robbery or financial gain,Male,Black,Death penalty,Didn't plead
+1498,41,45,1943,Revenge or vigilante justice,Male,White,Life,Didn't plead
+1499,24,24,1967,Robbery or financial gain,Male,Black,Death penalty,Didn't plead
+1500,20,21,1971,Robbery or financial gain,Male,Black,Death penalty,Didn't plead
